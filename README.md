@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**IconichotelsVaranasi/IconichotelsVaranasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**IconichotelsVaranasi/Iconichotelshttps://github.com/IconichotelsVaranasi/IconichotelsVaranasi.gitVaranasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
